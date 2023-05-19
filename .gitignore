@@ -1,0 +1,4 @@
+/greeting-service/target/*
+/greeting-service/.mvn/*
+/greeting-common/target/*
+/greeting-common/.mvn/*
