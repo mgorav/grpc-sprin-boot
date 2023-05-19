@@ -1,6 +1,10 @@
 # Spring Boot gRPC 
 Spring Boot gRPC
 
+# Project setup
+
+![alt text](./project-setup.png)
+
 ## Build
 ```
 mvn clean install 
