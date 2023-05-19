@@ -3,7 +3,7 @@ syntax = "proto3";
 package com.gonnect.grpc;
 
 option java_multiple_files = true;
-option java_package = "com.techprimers.grpc";
+option java_package = "com.gonnect.grpc";
 
 service GreetingService {
   rpc greeting(GreetingRequest) returns (GreetingResponse) {
