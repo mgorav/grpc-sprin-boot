@@ -1,9 +1,9 @@
 package com.gonnect.grpc.service;
 
 import com.gonnect.grpc.*;
-import com.techprimers.grpc.GreetingRequest;
-import com.techprimers.grpc.GreetingResponse;
-import com.techprimers.grpc.GreetingServiceGrpc;
+import com.gonnect.grpc.GreetingRequest;
+import com.gonnect.grpc.GreetingResponse;
+import com.gonnect.grpc.GreetingServiceGrpc;
 
 import io.grpc.stub.StreamObserver;
 import net.devh.boot.grpc.server.service.GrpcService;
