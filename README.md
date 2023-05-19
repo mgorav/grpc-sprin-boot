@@ -8,7 +8,7 @@ mvn clean install
 Run Spring boot app: GrpcSpringBootExampleApplication
 
 ```
-
+## Run
 ```
   grpcurl --plaintext localhost:9090 list
   grpcurl --plaintext localhost:9090 list com.gonnect.grpc.GreetingService
