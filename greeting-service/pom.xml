@@ -8,7 +8,7 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.techprimers</groupId>
+	<groupId>com.gonnect</groupId>
 	<artifactId>grpc-spring-boot-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>grpc-spring-boot-example</name>
@@ -31,7 +31,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.techprimers</groupId>
+			<groupId>com.gonnect</groupId>
 			<artifactId>greeting-common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
